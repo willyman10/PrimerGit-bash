@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Primer cambio "commit"
 Rama Wil
+=======
+Primer cambio "commit"
+>>>>>>> parent of 7df87e3... segundo commit
